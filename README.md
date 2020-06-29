@@ -1,5 +1,5 @@
 # OwnCloud-Install-Script
-This script allows you to install OwnCloud with Nginx, MariaDB... And it will configure all required files by itself.
+This script allows you to install OwnCloud with Nginx, MariaDB... on Raspbian 10. And it will configure all required files by itself.
 
 # How to run it
 You just have execute it like this:
