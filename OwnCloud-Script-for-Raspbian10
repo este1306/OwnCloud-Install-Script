@@ -64,9 +64,9 @@ echo 'deb http://download.owncloud.org/download/repositories/production/Debian_1
 echo ""
 echo "Transport HTTPS :"
 echo ""
-sudo apt-get install apt-transport-https
-sudo apt-get update
-sudo apt-get install owncloud-files
+sudo apt-get -y install apt-transport-https
+sudo apt-get -y update
+sudo apt-get -y install owncloud-files
 echo ""
 echo "OwnCloud installé"
 echo ""
